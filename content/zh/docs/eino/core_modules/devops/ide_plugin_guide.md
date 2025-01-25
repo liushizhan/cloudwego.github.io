@@ -26,7 +26,7 @@ weight: 1
 
 </td>
 <td>
-1. <strong>通过Marketplace，搜索Eino Dev 插件并按照</strong>
+1. <strong>通过Marketplace，搜索Eino Dev 插件并安装</strong>
 <a href="/img/eino/eino_install_page_2_page.png" target="_blank"><img src="/img/eino/eino_install_page_2_page.png" /></a>
 
 </td>
